@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Twittrup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-25 10:04+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: wirtschaftsinformatiker <blog@wirtschaftsinformatiker.cc>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: SWITZERLAND\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\Documents and Settings\\marco.bischoff\\My Documents\\Downloads\\twittrup\n"
+"X-Poedit-SearchPath-0: C:\\Documents and Settings\\marco.bischoff\\My Documents\\Downloads\\twittrup\n"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:5
+msgid "Writing a new post!"
+msgstr "Schreibe einen neuen Artikel!"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:9
+msgid "Still writing the post..."
+msgstr "Schreibe immer noch..."
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:13
+msgid "Set a new post online: #title#"
+msgstr "Einen neuen Artikel online: #title#"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:17
+msgid "Published a new post: #title#"
+msgstr "Veröffentlicht einen neuen Artikel: #title#"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:21
+msgid "Editing my post: #title#"
+msgstr "Bearbeite meinen Artikel: #title#"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:102
+msgid "You need to provide your twitter login and password!"
+msgstr "Es müssen der Benutzernamen und das Passwort angegeben werden!"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:126
+msgid "Your Twitter update options"
+msgstr "Die Twitter update Einstellungen"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:131
+msgid "New draft created"
+msgstr "Neuer Entwurf erstellt"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:134
+msgid "Update Twitter when a draft is created"
+msgstr "Twitter benachrichtigen wenn eine neuer Entwurf erstellt worden ist"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:137
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:152
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:167
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:182
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:197
+msgid "Text for this Twitter update ( use #title# as placeholder for the title )"
+msgstr "Text für diese Twitter Benachrichtigung ( #title# als Platzhalter benützen )"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:141
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:156
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:171
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:186
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:201
+msgid "Link title to blog?"
+msgstr "Den Titel zum Blog linken?"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:146
+msgid "Edit draft"
+msgstr "Entwurf bearbeitet"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:149
+msgid "Update Twitter when a draft is edited"
+msgstr "Benachrichtige Twittere wenn ein Entwurf bearbeitet wurde"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:161
+msgid "Draft is published"
+msgstr "Entwurf wird publiziert"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:164
+msgid "Update Twitter when a draft is published"
+msgstr "Benachrichtige Twitter wenn ein Entwurf publiziert wird."
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:176
+msgid "New post published"
+msgstr "Neuer Artikel publiziert"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:179
+msgid "Update Twitter when a post is published"
+msgstr "Benachrichtige Twitter wenn ein neuer Artikel publiziert wird"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:191
+msgid "Post is edited"
+msgstr "Artikel wird bearbeitet"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:194
+msgid "Update Twitter when a post is edited"
+msgstr "Benachrichtige Twitter wenn ein Artikel bearbeitet wurde"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:210
+msgid "Select your Shortener Service"
+msgstr "Wähle den Shortener Service"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:213
+msgid "Shortener Service"
+msgstr "Shortener Service"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:217
+msgid "(standard)"
+msgstr "(standard)"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:229
+msgid "Your Twitter account details"
+msgstr "Deine Twitter Benutzerkonto details"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:234
+msgid "Your email address registered at Twitter:"
+msgstr "Deine Email-Adresse welche mit Twitter registriert ist:"
+
+#: C:\Documents
+#: and Settings\marco.bischoff\My
+#: Documents\Downloads\twittrup/twittrup_updater_manage.php:238
+msgid "Your Twitter password:"
+msgstr "Dein Twitter Passwort:"
+
